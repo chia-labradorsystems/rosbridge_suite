@@ -1,15 +1,14 @@
-.. rosapi documentation master file, created by
-   sphinx-quickstart on Thu Feb  6 13:51:40 2014.
-   You can adapt this file completely to your liking, but it should at least
-   contain the root `toctree` directive.
-
-Welcome to rosapi's documentation!
+ROSAPI
 ==================================
+
+Provides service calls for getting ros meta-information, like list of topics, services, params, etc.
 
 Contents:
 
 .. toctree::
    :maxdepth: 2
+
+   CHANGELOG
 
 
 
@@ -18,5 +17,3 @@ Indices and tables
 
 * :ref:`genindex`
 * :ref:`modindex`
-* :ref:`search`
-
